@@ -22,7 +22,7 @@ setup(
     long_description=long_description,
     packages=find_packages(),
     install_requires=['numpy'],
-    keywords=['python', 'cluster', 'theoretical computer science', 'cluster'],
+    keywords=['python', 'theoretical computer science', 'cluster'],
     classifiers=[
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
