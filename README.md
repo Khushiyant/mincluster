@@ -3,6 +3,9 @@
 mincluster is a package that allows to minimize the maximum intercluster distance
 
 ## Overview
+<center>
+    <img src="https://github.com/Khushiyant/mincluster/assets/69671407/4a47c95a-5274-4998-956f-3cdbd3e34b4c" width=40% align="center">
+</center>
 
 The problem of clustering a set of points so as to minimize the maximum intercluster distance is studied. An O(kn) approximation algorithm, where n is the number of points and k is the number of clusters, that guarantees solutions with an objective function value within two times the optimal solution value is presented. This approximation algorithm succeeds as long as the set of points satisfies the triangular inequality. We also show that our approximation algorithm is best possible, with respect to the approximation bound, if P ≠ NP.
 
